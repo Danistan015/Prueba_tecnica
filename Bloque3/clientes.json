@@ -1,0 +1,22 @@
+[
+    {
+        "ID_Cliente": 1,
+        "Nombre": "Empresa A",
+        "Regi\u00f3n": "Centro"
+    },
+    {
+        "ID_Cliente": 2,
+        "Nombre": "Empresa B",
+        "Regi\u00f3n": "Norte"
+    },
+    {
+        "ID_Cliente": 3,
+        "Nombre": "Empresa C",
+        "Regi\u00f3n": "Centro"
+    },
+    {
+        "ID_Cliente": 4,
+        "Nombre": "Empresa D",
+        "Regi\u00f3n": "Sur"
+    }
+]
